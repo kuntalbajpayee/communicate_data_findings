@@ -3,3 +3,5 @@ Every Individual have their own wishes in their every stage of life .Sometimes t
 
 DATA OVERVIEW<br>
 This data consist of 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, borrower employment status,Investors,Category Band, borrower credit history, and the latest payment information. The main purpose of this project is to summarize the characteristics of variables that can affect the loan status and to get some ideas about the relationships among multiple variables using summary statistics and data visualizations
+Data set can be downloaded from :-
+https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv
